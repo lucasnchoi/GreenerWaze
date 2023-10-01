@@ -1,6 +1,11 @@
 # GreenerWaze
 A Waze-like map for EV owners that was developed for the programming class ECE297. It was built in C++ using the EZGL and GTK graphics libraries, with data from  OpenStreetMap. 
 
+![image](https://github.com/lucasnchoi/GreenerWaze/assets/77515168/6ad95551-35e7-49ef-bf6e-7c4cf8595767)
+
+![image](https://github.com/lucasnchoi/GreenerWaze/assets/77515168/2707b089-2007-4dc4-b81a-523b9c26ea1f)
+
+![image](https://github.com/lucasnchoi/GreenerWaze/assets/77515168/feedd0a6-4544-4a26-8343-35ed61ad7b40)
 
 ## Credits
 This repository is a fork from https://github.com/zakharykaplan/mapper which contains the dockerfile and virtualization support for running the map. Mapper was developed on the university computer enviornment and normally could not be run outisde of that. The forked repository sets up support for allowing any computer to run the map using docker. 
